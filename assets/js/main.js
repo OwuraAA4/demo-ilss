@@ -226,3 +226,6 @@ testimonial.slick({
   $('#bar6').barfiller();
 
 })(jQuery);
+
+
+
